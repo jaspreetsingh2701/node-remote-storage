@@ -1,0 +1,23 @@
+{
+  "name": "remote-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaspreetsingh2701/node-remote-storage.git"
+  },
+  "author": "jas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaspreetsingh2701/node-remote-storage/issues"
+  },
+  "homepage": "https://github.com/jaspreetsingh2701/node-remote-storage#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
